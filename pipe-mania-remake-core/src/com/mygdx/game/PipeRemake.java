@@ -28,8 +28,4 @@ public class PipeRemake extends ApplicationAdapter {
 		batch.dispose();
 		img.dispose();
 	}
-
-	public void main() {
-        System.out.println("Hello World");
-        }
 }
