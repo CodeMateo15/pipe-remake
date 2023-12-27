@@ -8,7 +8,7 @@ import com.badlogic.gdx.utils.ScreenUtils;
 public class PipeRemake extends ApplicationAdapter {
 	SpriteBatch batch;
 	Texture img;
-	jjj
+	//another test
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
